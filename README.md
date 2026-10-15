@@ -1,2 +1,19 @@
-# student-mobile-portal
-AppsDev 1 student mobile portal
+
+# Student Mobile Portal
+
+A student portal project for practicing Git and GitHub collaboration.
+
+## Student Profile Component
+
+The StudentProfile component displays a student's name,
+student ID, and academic program using fictional sample data.
+
+### Component File
+
+- `StudentProfile.jsx`
+
+### Information Displayed
+
+- Name
+- Student ID
+- Program
